@@ -62,3 +62,6 @@ Pivot Tables & Pivot Charts for analysis
 Conditional Formatting for highlighting key trends
 
 Slicers & Filters for interactivity
+
+https://github.com/chougulevidyashree-sudo/Employee_Data_Analysis_Excel/blob/main/excel_picture.png
+

@@ -63,5 +63,7 @@ Conditional Formatting for highlighting key trends
 
 Slicers & Filters for interactivity
 
+<img width="1633" height="759" alt="image" src="https://github.com/user-attachments/assets/776896d0-f58f-4c68-a2ad-8a488aaaa5cf" />
+
 https://github.com/chougulevidyashree-sudo/Employee_Data_Analysis_Excel/blob/main/excel_picture.png
 
